@@ -1,2 +1,1 @@
 # Hakoniwa
-This hakoniwa app.
